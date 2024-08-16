@@ -24,7 +24,7 @@ def get_context(auth,chanel_id):
     # 有精力的小伙伴，可以试试 看下请求解决下    
     print(auth, chanel_id)
     headr = {
-        "Authorization": auth,
+        "Authorization": OTQ3MTEyMDAxNjkwMjkyMjI0.GdUlBZ.LfnBGyOqkjVmdnxy_hjeA4RnvkmuYZqESpkLvw,
         "Content-Type": "application/json",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"
     }
